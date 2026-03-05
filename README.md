@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -19,6 +19,9 @@
 
 ### 📊 Статистика
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v1adicke&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1adicke&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v1adicke&theme=radium&hide_border=true" alt="GitHub Streak" />
 </div>
+
+---
+
+*чипсы2007*
