@@ -27,7 +27,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=v1adicke&theme=radium&hide_border=true" alt="GitHub Streak" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1adicke&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1adicke&langs_count=8&theme=dark&hide_border=true)
 
 ---
 
